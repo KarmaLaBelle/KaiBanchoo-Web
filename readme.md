@@ -1,5 +1,7 @@
 ## KaiBanchoo!web
 
+A framework I am creating for fun and educational purposes, thus the reason I picked the license. (IMO play osu! on the real servers as it was intended.)
+
 - [x] Login
 - [ ] Registration (Fairly easy to do, just md5 the password and login.)
 - [x] User ban
@@ -15,6 +17,8 @@
 ## How-to
 
 Not telling you how to setup Laravel/Homestead
+
+Uses Stable(Fallback)
 
 Hosts
 ```
@@ -41,3 +45,5 @@ Full license can be found in LICENSE.md
 - Osu! is a game developed by Dean "peppy" Herbert, and like all good things, he owns the title, and code.
 
 - KaiBanchoo is based off of the work of Dillon "Itsyuka" Modine-Thuen and Castar's packet findings.
+
+- If you like osu!, play on the real server and maybe drop some cash on there too, believe in the peppy, and the peppy will believe in you, unless you're Cookiezi.
