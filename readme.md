@@ -47,3 +47,7 @@ Full license can be found in LICENSE.md
 - KaiBanchoo is based off of the work of Dillon "Itsyuka" Modine-Thuen and Castar's packet findings.
 
 - If you like osu!, play on the real server and maybe drop some cash on there too, believe in the peppy, and the peppy will believe in you, unless you're Cookiezi.
+
+## To peppy
+
+If you want this to be taken down, just throw me a tweet or email inquiry@itsyuka.pw and I'll take it down.
