@@ -1,5 +1,7 @@
 ## KaiBanchoo!web
 
+[![Build Status](https://travis-ci.org/Itsyuka/KaiBanchoo-Web.svg)](https://travis-ci.org/Itsyuka/KaiBanchoo-Web)
+
 A framework I am creating for fun and educational purposes, thus the reason I picked the license. (IMO play osu! on the real servers as it was intended.)
 
 - [x] Login
