@@ -6,9 +6,9 @@ A framework I am creating for fun and educational purposes, thus the reason I pi
 
 - [x] Login
 - [X] Registration
-- [ ] Dashboard
+- [ ] Dashboard (Partially done)
 - [x] User ban
-- [x] Score listing
+- [ ] Score listing
 - [ ] Score Submitting
 - [ ] Multiplayer
 - [ ] Chat (Partially done)
