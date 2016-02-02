@@ -3,15 +3,16 @@
 A framework I am creating for fun and educational purposes, thus the reason I picked the license. (IMO play osu! on the real servers as it was intended.)
 
 - [x] Login
-- [ ] Registration (Fairly easy to do, just md5 the password and login.)
+- [X] Registration
+- [ ] Dashboard
 - [x] User ban
 - [x] Score listing
 - [ ] Score Submitting
 - [ ] Multiplayer
-- [ ] Chat
-- [ ] Avatar
+- [ ] Chat (Partially done)
+- [X] Avatar
 - [ ] Online user list
-
+- [X] Packet Receiving
 
 
 ## How-to
@@ -44,7 +45,7 @@ Full license can be found in LICENSE.md
 
 - Osu! is a game developed by Dean "peppy" Herbert, and like all good things, he owns the title, and code.
 
-- KaiBanchoo is based off of the work of Dillon "Itsyuka" Modine-Thuen and Castar's packet findings.
+- KaiBanchoo is based off of the work of Dillon "Itsyuka" Modine-Thuen and HoLLy-HaCKeR's packet method/code.
 
 - If you like osu!, play on the real server and maybe drop some cash on there too, believe in the peppy, and the peppy will believe in you, unless you're Cookiezi.
 

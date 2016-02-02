@@ -156,6 +156,14 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        // Bancho Required Providers
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+        Bestmomo\Scafold\ScafoldServiceProvider::class,
+        Intervention\Image\ImageServiceProvider::class,
+        Torann\GeoIP\GeoIPServiceProvider::class,
+        Collective\Html\HtmlServiceProvider::class,
+        Cviebrock\ImageValidator\ImageValidatorServiceProvider::class,
+
     ],
 
     /*
@@ -201,6 +209,12 @@ return [
         'URL'       => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View'      => Illuminate\Support\Facades\View::class,
+
+        // Stuff for Bancho
+        'Image' => Intervention\Image\Facades\Image::class,
+        'GeoIP' => Torann\GeoIP\GeoIPFacade::class,
+        'Form' => Collective\Html\FormFacade::class,
+        'Html' => Collective\Html\HtmlFacade::class,
 
     ],
 

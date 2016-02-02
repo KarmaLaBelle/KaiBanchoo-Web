@@ -10,9 +10,15 @@ use Log;
 
 class Debug extends Controller
 {
-    public function getThingy(Request $request, $uri)
+    public function getDebug(Request $request, $section)
     {
-        Log::info(sprintf("New %s request from %s with data: %s", $request->method(), $uri, json_encode($request->all())));
-        return "";
+        Log::info(sprintf("Request made to %s from %s", $section, $request->getClientIp()));
+        return '';
+    }
+
+    public function postDebug(Request $request, $section)
+    {
+        Log::info(sprintf("Request made to %s", $section));
+        return '';
     }
 }

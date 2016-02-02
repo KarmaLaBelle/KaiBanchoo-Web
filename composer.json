@@ -6,7 +6,13 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
+        "laravel/framework": "5.2.*",
+        "barryvdh/laravel-ide-helper": "v2.1.2",
+        "bestmomo/scafold": "dev-master",
+        "intervention/image": "2.3.5",
+        "torann/geoip": "0.2.2",
+        "laravelcollective/html": "v5.2.4",
+        "cviebrock/image-validator": "2.0.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
