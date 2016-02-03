@@ -9,7 +9,10 @@ php:
   - hhvm
 
 addons:
-  mariadb: 10.0
+  mariadb: 10.1
+
+before_script:
+  - mysql -e 'create database osudb;'
 
 env:
   - DB_USERNAME=root
