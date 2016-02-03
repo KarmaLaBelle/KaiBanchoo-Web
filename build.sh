@@ -3,6 +3,8 @@
 set -u
 set -e
 
+mysql -u root -e "create database osudb";
+
 chmod -R 777 storage bootstrap/cache || true
 
 curl https://getcomposer.org/installer > composer-installer
