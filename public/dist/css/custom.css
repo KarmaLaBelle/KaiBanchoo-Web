@@ -8,7 +8,7 @@
     bottom: 0px;
     left: 0px;
     right: 0px;
-    padding: 35px 45px;
+    padding: 35px 33px;
     color: #ffffff;
     background-color:rgba(0, 0, 0, 0.25);
     text-decoration: none;
@@ -16,6 +16,9 @@
     -moz-transition: opacity 500ms;
     -o-transition: opacity 500ms;
     transition: opacity 500ms;
+    -ms-transform: scale(0.93,0.93);
+    -webkit-transform: scale(0.93,0.93);
+    transform: scale(0.93,0.93);
 
 }
 .widget-user-image:hover .cornerLink {
